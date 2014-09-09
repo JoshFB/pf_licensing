@@ -14,7 +14,8 @@ body {
 }
 
 .text-primary {
-    color: #fed136;
+   /* color: #fed136; */
+   color: #19B5FE;
 }
 
 p {
@@ -119,14 +120,16 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #fed136;
+   /* border-color: #fed136; */
+    border-color: #22A7F0;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    /* background-color: #fed136; */
+    background-color: #22A7F0;
 }
 
 .btn-xl:hover,
@@ -134,9 +137,11 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+   /* border-color: #f6bf01; */
+    border-color: #19B5FE;
     color: #fff;
-    background-color: #fec503;
+   /* background-color: #fec503; */
+    background-color: #19B5FE;
 }
 
 .btn-xl:active,
@@ -281,9 +286,10 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif; */
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 22px;
-    font-style: italic;
+    /* font-style: italic; */
     line-height: 22px;
 }
 
@@ -304,7 +310,8 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+        /* font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif; */
+        font-family: Helvetica, Arial, sans-serif;
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
