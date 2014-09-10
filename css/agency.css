@@ -313,7 +313,7 @@ header .intro-text .intro-heading {
         /* font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif; */
         font-family: Helvetica, Arial, sans-serif;
         font-size: 40px;
-        font-style: italic;
+        /* font-style: italic; */
         line-height: 40px;
     }
 
@@ -351,6 +351,8 @@ section h3.section-subheading {
         padding: 150px 0;
     }
 }
+
+    section .service{}
 
 .service-heading {
     margin: 15px 0;
