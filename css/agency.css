@@ -352,7 +352,10 @@ section h3.section-subheading {
     }
 }
 
-    section .service{}
+    section#services-2{
+        padding-top: inherit;
+    }
+
 
 .service-heading {
     margin: 15px 0;
